@@ -106,7 +106,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Electronic',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -118,7 +118,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Sofa',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -130,7 +130,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'TV',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -142,7 +142,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Flight',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
