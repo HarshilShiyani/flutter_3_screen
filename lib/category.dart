@@ -174,7 +174,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Toy',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -186,7 +186,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Bike',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -198,7 +198,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Grocery',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -230,7 +230,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Grocery',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -242,7 +242,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Mobile',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -254,7 +254,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Fashion',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -282,7 +282,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Super Coin',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -333,31 +333,7 @@ class _CategoryState extends State<Category> {
                   Column(children: [
                     CircleAvatar(
                       backgroundImage: AssetImage(
-                        'assets/images/9.webp',
-                      ),
-                      radius: width / 10,
-                    ),
-                    Text(
-                      'Offer Zone',
-                      style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
-                    )
-                  ]),
-                  Column(children: [
-                    CircleAvatar(
-                      backgroundImage: AssetImage(
-                        'assets/images/10.webp',
-                      ),
-                      radius: width / 10,
-                    ),
-                    Text(
-                      'Offer Zone',
-                      style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
-                    )
-                  ]),
-                  Column(children: [
-                    CircleAvatar(
-                      backgroundImage: AssetImage(
-                        'assets/images/11.webp',
+                        'assets/images/1.jfif',
                       ),
                       radius: width / 10,
                     ),
@@ -374,7 +350,31 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Grocery',
+                      style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
+                    )
+                  ]),
+                  Column(children: [
+                    CircleAvatar(
+                      backgroundImage: AssetImage(
+                        'assets/images/3.webp',
+                      ),
+                      radius: width / 10,
+                    ),
+                    Text(
+                      'Mobile',
+                      style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
+                    )
+                  ]),
+                  Column(children: [
+                    CircleAvatar(
+                      backgroundImage: AssetImage(
+                        'assets/images/4.webp',
+                      ),
+                      radius: width / 10,
+                    ),
+                    Text(
+                      'Fashion',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -396,7 +396,7 @@ class _CategoryState extends State<Category> {
                     Text(
                       'Offer Zone',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
-                     )
+                    )
                   ]),
                   Column(children: [
                     CircleAvatar(
@@ -406,7 +406,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Grocery',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -418,7 +418,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Mobile',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),
@@ -430,7 +430,7 @@ class _CategoryState extends State<Category> {
                       radius: width / 10,
                     ),
                     Text(
-                      'Offer Zone',
+                      'Fashion',
                       style: TextStyle(fontWeight: FontWeight.bold,fontSize: width/25),
                     )
                   ]),

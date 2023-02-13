@@ -55,7 +55,7 @@ class AccountPage extends StatelessWidget {
                         ' Plus',
                         style: TextStyle(
                             fontStyle: FontStyle.italic,
-                            color: Colors.yellowAccent,
+                            color: Colors.orangeAccent,
                             fontWeight: FontWeight.bold),
                       ),
                       Icon(Icons.keyboard_arrow_right_outlined)
